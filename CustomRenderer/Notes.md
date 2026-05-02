@@ -1,3 +1,3 @@
 Custom Renderer is similar to createRoot() renderer in React.js
 
-How react renderer works internally.
+Now I will tell you How React renderer works internally?
