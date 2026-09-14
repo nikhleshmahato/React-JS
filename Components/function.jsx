@@ -9,9 +9,11 @@ function App(){
 
     return 
         <div>
-            <button onClick({fruit()})>click</button> // this statement will call the function as the page load without click
+            <button onClick({fruit()})>click </button> 
+            // this statement will call the function as the page load without click
             
-            <button onClick({fruit})>click </button> //in react, onclick need direct function declaration 
+            <button onClick({fruit})>click </button> 
+            //in react, onclick need direct function declaration 
 
             // Then how to pass parameter inside function 
             <button onClick({()=>animal("banana")})>click</button>
